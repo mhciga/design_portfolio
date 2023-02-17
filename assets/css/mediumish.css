@@ -91,7 +91,7 @@ section {
 	color:rgba(0,0,0,.44);
 	font-size:0.95rem;
 	line-height:1.4;
-	font-weight:100;
+	font-weight:400;
 }
 .listfeaturedtag .wrapfooter {
 	position:absolute;
@@ -219,7 +219,7 @@ span.post-name a,span.post-read-more a:hover {
 }
 .article-post {
 	font-family:Merriweather;
-	font-size:1.2rem;
+	font-size:0.95rem;
 	line-height:1.8;
 	color:rgba(0,0,0,.8);
 }
